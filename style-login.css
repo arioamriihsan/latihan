@@ -1,0 +1,32 @@
+body {
+    background-image: url(img/wallpaper.jpg);
+}
+
+h5, h1 {
+    color: black;
+}
+.text {
+    border: 1px solid black;
+    border-radius: 25px;
+    margin: 6px;
+    padding: 5px;
+    text-align: center;
+    width: 150px;
+    outline: none;
+}
+
+.container {
+    width: 800px;
+}
+
+input:hover{
+    width: 200px;
+    border: 1px solid salmon;
+    cursor: pointer;
+}
+
+.button {
+    margin-top: 15px;
+    padding: 5px
+}
+

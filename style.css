@@ -1,0 +1,28 @@
+h1 {
+    background-color: aliceblue;
+    border: 5px solid black;
+}
+
+.biru:hover {
+    background-color: darkgrey;
+    font-size: 60px;
+}
+
+.textFlow {
+    font-size: 50px;
+    color: darkorange;
+}
+
+.button-custom {
+    width: 150px;
+    outline: none !important;
+    background-color: darkred;
+    color: white;
+    font-size: 30px;
+    border-radius: 24px;
+    transition: 500ms;
+}
+
+.button-custom:active {
+    width: 500px;
+}
